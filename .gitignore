@@ -1,0 +1,9 @@
+postgres/pg_xlog
+postgres/pg_stat
+postgres/base
+postgres/global
+postgres/pg_clog
+postgres/pg_multixact
+postgres/pg_notify
+postgres/pg_subtrans
+postgres/PG_VERSION
