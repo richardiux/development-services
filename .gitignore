@@ -1,11 +1,1 @@
-postgres/pg_xlog
-postgres/pg_stat
-postgres/base
-postgres/global
-postgres/pg_clog
-postgres/pg_multixact
-postgres/pg_notify
-postgres/pg_stat_tmp
-postgres/pg_subtrans
-postgres/postmaster.pid
-postgres/PG_VERSION
+postgres/
