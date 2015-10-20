@@ -1,2 +1,0 @@
-brew install redis postgresql memecached elasticsearch rabbitmq
-initdb -D ./postgres -U postgres
